@@ -2,6 +2,7 @@ export const projectsData = [
   {
     id: 1,
     title: "MarmiMom",
+    description: "Description au survol de l'image",
     date: "Decembre 2022",
     languages: ["JavaScript", "CSS"],
     infos:
@@ -12,6 +13,7 @@ export const projectsData = [
   {
     id: 2,
     title: "MealApp",
+    description: "Description au survol de l'image",
     date: "Fevrier 2023",
     languages: ["React", "CSS", "Vite"],
     infos:
@@ -22,6 +24,7 @@ export const projectsData = [
   {
     id: 3,
     title: "Suivi de pneus",
+    description: "Description au survol de l'image",
     date: "Fevrier 2023",
     languages: ["React", "Axios", "json-server", "Vite"],
     infos:
@@ -32,6 +35,7 @@ export const projectsData = [
   {
     id: 4,
     title: "Notflixx",
+    description: "Description au survol de l'image",
     date: "Avril 2023",
     languages: ["React", "Axios", "Vite"],
     infos:
@@ -42,6 +46,7 @@ export const projectsData = [
   {
     id: 5,
     title: "Lisiting classes",
+    description: "Description au survol de l'image",
     date: "Juillet 2023",
     languages: ["TypeScript", "json-server", "Vite"],
     infos:
