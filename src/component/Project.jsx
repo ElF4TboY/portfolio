@@ -60,6 +60,7 @@ const Project = ({ projectNumber }) => {
     >
       <div className="project-content">
         <h1>{currentProject.title}</h1>
+        <p>Description au survol de l'image</p>
         <p>{currentProject.description}</p>
         <p>{currentProject.date}</p>
         <ul>

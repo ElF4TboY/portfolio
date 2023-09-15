@@ -2,29 +2,26 @@ export const projectsData = [
   {
     id: 1,
     title: "MarmiMom",
-    description: "Description au survol de l'image",
     date: "Decembre 2022",
     languages: ["JavaScript", "CSS"],
     infos:
       "L'application a pour but de rechercher des recettes de cuisine en fonction d'un type ou par leur nom. J'ai voulu faire ce projet pour remplacer le vieux livre de recettes de ma mère.",
-    img: "./assets/img/marmiMon.png",
-    link: "https://github.com/ElF4TboY/MarmiMon",
+    img: "./assets/img/marmimon.PNG",
+    link: "https://marmimon.netlify.app",
   },
   {
     id: 2,
     title: "MealApp",
-    description: "Description au survol de l'image",
     date: "Fevrier 2023",
     languages: ["React", "CSS", "Vite"],
     infos:
       "L'application a pour but de rechercher des recettes de cuisine avec leur nom, j'ai utilisé l'API the meal DB.",
     img: "./assets/img/mealApp.PNG",
-    link: "https://regal-youtiao-36b382.netlify.app",
+    link: "https://meal-app-react.netlify.app",
   },
   {
     id: 3,
     title: "Suivi de pneus",
-    description: "Description au survol de l'image",
     date: "Fevrier 2023",
     languages: ["React", "Axios", "json-server", "Vite"],
     infos:
@@ -35,18 +32,16 @@ export const projectsData = [
   {
     id: 4,
     title: "Notflixx",
-    description: "Description au survol de l'image",
     date: "Avril 2023",
     languages: ["React", "Axios", "Vite"],
     infos:
       "L'application a pour but de rechercher des films avec leur nom, j'ai utilisé l'API the movie DB.",
     img: "./assets/img/notflixx.PNG",
-    link: "https://github.com/ElF4TboY/Notflixx",
+    link: "https://notflix-search-movie.netlify.app",
   },
   {
     id: 5,
     title: "Lisiting classes",
-    description: "Description au survol de l'image",
     date: "Juillet 2023",
     languages: ["TypeScript", "json-server", "Vite"],
     infos:
